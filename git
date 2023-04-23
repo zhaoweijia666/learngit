@@ -1,0 +1,29 @@
+[33mcommit 78a0e0c6e86bfeb2bb38d100daab7f9115d45e68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/feature[m[33m)[m
+Author: zwj <768793715@qq.com>
+Date:   Sun Apr 23 18:39:27 2023 +0800
+
+    untrack .idea+target
+
+[33mcommit c1c46d61cf4996f7739ef3af7bfd1354371e22e4[m
+Author: zwj <768793715@qq.com>
+Date:   Sun Apr 23 18:37:20 2023 +0800
+
+    modified the readme.txt
+
+[33mcommit bfdd0a2172750aa4e4e6c3220ebd775d78fab63e[m
+Author: zwj <768793715@qq.com>
+Date:   Sun Apr 23 18:16:34 2023 +0800
+
+    this is from dev branch
+
+[33mcommit 3535fbbcdbc2b1e88d6ef35680bfb92230d35208[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: zwj <768793715@qq.com>
+Date:   Sun Apr 23 16:58:43 2023 +0800
+
+    this is the modifed version
+
+[33mcommit 8a02d7c7361e11a1e10645421315fc40e7cc2d93[m
+Author: zwj <768793715@qq.com>
+Date:   Sun Apr 23 16:41:16 2023 +0800
+
+    this is the fist version
